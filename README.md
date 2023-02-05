@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KevinIsRoot
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning MonoGame
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on game jams
 - 📫 How to reach me kevinisroot@gmail.com
 
